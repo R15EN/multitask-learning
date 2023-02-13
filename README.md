@@ -1,4 +1,4 @@
-# Multi Task Learning example with Keras
+# Multi Task Learning example Keras
 
 This uses a dataset that includes CSV images of faces labeled based on age, gender, and ethnicity.
 Dataset from here https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv?datasetId=855240&sortBy=voteCount
